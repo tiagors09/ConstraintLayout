@@ -23,7 +23,7 @@ Antes de começar, certifique-se de que você tenha o seguinte instalado em seu 
 1. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/ConstraintLayout-Study.git
+git clone git@github.com:tiagors09/ConstraintLayout.git
 ```
 
 2. Abra o projeto no Android Studio.
