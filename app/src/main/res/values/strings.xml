@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla egestas feugiat. Cras sit amet posuere ex, ut sodales ex. Suspendisse rutrum sagittis tincidunt. Etiam pharetra sit amet augue non placerat. Nunc gravida leo et dolor iaculis, id vehicula elit convallis. Cras ultrices tortor eget dolor ornare, sed facilisis nisi convallis. Nulla a risus vitae neque vulputate volutpat in ac nulla. Aliquam vehicula, nibh vulputate suscipit sagittis, nisl nunc blandit ex, lobortis porttitor neque est iaculis dolor. Mauris ligula odio, sollicitudin quis urna eu, mattis maximus mi. Curabitur semper id sapien vel fringilla. Suspendisse vitae fringilla neque. In viverra accumsan libero, a sollicitudin nibh pulvinar at. Praesent sed nisi vel erat dapibus interdum. Duis posuere eros vitae orci ultrices, bibendum consequat metus sagittis. "</string>
+    <string name="title">SW4 é uma furada!!!</string>
+    <string name="data">30/08/2023\n</string>
 </resources>
