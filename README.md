@@ -1,4 +1,4 @@
-# ConstraintLayout Study
+# ConstraintLayout
 
 Este é um projeto Android de estudo focado em aprender sobre layouts usando o ConstraintLayout. O ConstraintLayout é um componente poderoso para definir layouts de interface de usuário de maneira flexível e responsiva.
 
